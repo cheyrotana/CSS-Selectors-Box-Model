@@ -1,0 +1,13 @@
+/* TODO */
+button {
+    height: 3em;
+    width: 8em;
+    border-radius: 15px;
+    border: solid #ca6fa7;
+    background-color: #FA83CD;
+    cursor: pointer;
+}
+button:hover {
+    border: solid rgb(82, 49, 68);
+    background-color: #AD578D;
+}
